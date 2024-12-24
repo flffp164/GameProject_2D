@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0432ecb6ed021a1429db1eb718720856
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - xPrefab: {instanceID: 0}
+  - heartSprite: {fileID: 21300000, guid: d757d4e4f6dd9d74ca915f642d3a7117, type: 3}
+  - breakHeartSprite: {fileID: 21300000, guid: 8f374a6775394f84f9292e1e6ab5cf49, type: 3}
+  - wrongSound: {fileID: 8300000, guid: 7219d2aecba94b74daf0ba9c8302a453, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
